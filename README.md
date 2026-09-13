@@ -1,8 +1,6 @@
 # Deep Learning for Perception 
 ### Building, Breaking and Fixing a Neural Network
 
-National University of Computer and Emerging Sciences — Fall 2026
-
 ## Overview
 
 This notebook builds a feedforward neural network end to end on Fashion-MNIST, deliberately
